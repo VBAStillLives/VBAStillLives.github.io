@@ -18,7 +18,7 @@ My name is Sevan Serafino, and I started off as management consultant that accid
 
 When I'm not coding VBA or doing data analysis, I'm a proud dad, ocean addict, amateur chef, and professional Netflix binge watcher.
 
-You can learn more about me and other projects I'm working on [here](https://vbastilllives.github.io/personalpage/).
+You can learn more about me and other projects I'm working on [here](https://vbastilllives.github.io/PersonalPage/).
 
 
 
