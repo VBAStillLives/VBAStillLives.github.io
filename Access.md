@@ -4,8 +4,6 @@ title: Access
 permalink: /Access/
 ---
 
-# Access
-
 ### Access for Business Users
 
 Microsoft Access is a desktop database tool.  **The program is a good one and is as underrated as it is overlooked by most users.**  You can create your own desktop database applications.  An example of a database application would be an inventory tracking system where you have forms that allow you to read or edit the information you need, and data tables to store them.  Where Excel has worksheets, Access has tables.  And where Excel has formulas and functions, Access has a graphical SQL query generator where users can simply point and click to create powerful queries without knowing to learn SQL.  
