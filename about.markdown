@@ -10,7 +10,7 @@ This blog was created to share my knowledge of the Microsoft Applications I work
 
 There was a time in my life where I couldn't read or write a single bit of code.  I'd look at an integrated development environment (IDE) or code editor and not understand a single line of code.  So this blog is very much written for the non-programmer.  You only need to have experience with Excel or Access for this to be meaningful for you. 
 
-I want you to be empowered with full potential of the applications you use at your desk every single day.  Learning a little bit of VBA will give you some serious productivity gains; letting you focus more of your valuable time on what makes you good at your actual job.  
+I want you to be empowered with the full potential of the applications you use at your desk every single day.  Learning a little bit of VBA will give you some serious productivity gains; letting you focus more of your valuable time on what makes you good at your actual job.  
 
 
 
