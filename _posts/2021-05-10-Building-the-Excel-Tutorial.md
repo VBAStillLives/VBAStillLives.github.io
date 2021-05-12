@@ -9,4 +9,6 @@ I'm now adding content to the Excel VBA tutorial page.  I realize that there is 
 
 When you're brand new to anything, you don't know what you don't know.  So I wrote this to help answer questions you didn't even know you'd have if you set out to learn VBA any other way.  This is also valuable to the person who has dabbled in VBA before.  Perhaps your exposure to VBA was disjointed and disconnected.  Let me help you connect the dots!  
 
-This tutorial isn't meant to be an expert level compendium of all the VBA knowledge that exists.  Set realistic goals for yourself.  
+This tutorial isn't meant to be an expert level compendium of all the VBA knowledge that exists.  Set realistic goals for yourself, and know that you'll learn more with time and practice.  There is no other more effective way to learn this material than starting off with a well-ordered tutorial, and then learning more on your own.
+
+Be sure to check out the [Excel VBA tutorial](https://vbastilllives.github.io/Excel-VBA-Tutorial/) as I'll be updating it frequently. 
