@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Excel-VBA-GettingStarted/
+permalink: /tutorial/excel/Excel-VBA-GettingStarted/
 ---
 
 This is a test!
