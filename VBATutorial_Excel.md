@@ -9,3 +9,7 @@ Welcome to the Excel VBA Tutorial page.  This basic tutorial provides exposure t
 
 * [VBA Orientation](https://vbastilllives.github.io/tutorial/excel/Excel-VBA-GettingStarted/)
 * [Setting up your Dev Environment](https://vbastilllives.github.io/tutorial/excel/Excel-VBA-Setting-Up-Dev-Environment/)
+* [First program](https://vbastilllives.github.io/tutorial/excel/hello-world-excel-vba/)
+* Variables
+* Loops
+* Conditional Logic
