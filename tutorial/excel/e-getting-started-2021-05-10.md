@@ -25,7 +25,7 @@ Now we will be setting up the development environment and covering how to naviga
 1. Open an Excel workbook (easy enough).
 
 2. Navigate to the File tab
-![Navigate to file](/assets/img/1e_click_file_getting_started.png)
+![Navigate to file](/assets/images/1e_click_file_getting_started.png)
 
 3. Click Options
-![Click options](/assets/img/2e_click_options_getting_started.png)
+![Click options](/assets/images/2e_click_options_getting_started.png)
