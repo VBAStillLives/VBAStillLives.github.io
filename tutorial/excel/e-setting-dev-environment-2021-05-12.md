@@ -58,5 +58,5 @@ You are now ready to create your first program in VBA.  Let's do it!
 
 [Excel Tutorial Homepage](/Excel-VBA-Tutorial/)
 
-[First VBA Program]
+[First VBA Program](/tutorial/excel/hello-world-excel-vba/)
 
