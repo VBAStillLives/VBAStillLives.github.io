@@ -32,6 +32,11 @@ Sub HelloWorld
 End Sub
 ```
 
+**What will the program do?**
+The program is a **very** simple one.  When you execute the code by pressing F5 or the play button, a message box will appear with the text "Hello World!" in it.  When you press the "OK" button in the prompt, the program will end.  
+
+**Analysis of the program** 
+
 I want you to notice a few things.
 
 **The Title**
@@ -58,9 +63,15 @@ Capitalize the first letter in each world.  It makes it so much more readable. I
 **Comments in code**
 Comments in code are completely ignored by the compiler.  This means that the VBA IDE will not recognize them as lines of executable code and will literally pass over them as if they don't exist.  Comments really help with keeping track of what your code does and where. 
 
-You create comments in code by using an apostrophe preceding a comment.  You can see an example up above.   
+You create comments in code by using an apostrophe preceding a comment.  You can see an example up above.
 
-How to 
+**Lesson End**
+
+Take a moment to tinker this program. Add some comments for practice.  Change the text from "Hello World" to something else.  Get comfortable.  The point of this very brief lesson was to illustrate where and how VBA is typed, and how to execute a program.  Each lesson will build upon concepts from previous tutorials, so keep the lessons learned here in mind. 
+
+[Excel Tutorial Homepage](/Excel-VBA-Tutorial/)
+
+
 
 
 
