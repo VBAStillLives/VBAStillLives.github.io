@@ -58,7 +58,7 @@ Capitalize the first letter in each world.  It makes it so much more readable. I
 **Comments in code**
 Comments in code are completely ignored by the compiler.  This means that the VBA IDE will not recognize them as lines of executable code and will literally pass over them as if they don't exist.  Comments really help with keeping track of what your code does and where. 
 
-You create comments in code by using an apostrophe preceeding a comment.  You can see an example up above.   
+You create comments in code by using an apostrophe preceding a comment.  You can see an example up above.   
 
 How to 
 
