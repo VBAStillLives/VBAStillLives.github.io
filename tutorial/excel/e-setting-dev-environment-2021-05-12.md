@@ -14,3 +14,6 @@ After reviewing the [VBA Orientation](https://vbastilllives.github.io/tutorial/e
 
 3. Select **Options**
 ![Select Options](/assets/images/2e_click_options_getting_started.png)
+
+4. Select **Customize Ribbon**, then enable the **Developer Tab** and click **OK**
+![Developer Tab](/assets/images/3e_click_dev_tab_gettingstarted.png)  
