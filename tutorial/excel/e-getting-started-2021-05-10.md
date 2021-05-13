@@ -23,5 +23,5 @@ That was just a quick orientation on some of the things that make up what I'm ca
 
 [Excel Tutorial Homepage](/Excel-VBA-Tutorial/)
 
-[Setting up your development Environment](/tutorial/excel/tutorial/excel/Excel-VBA-Setting-Up-Dev-Environment/)
+[Setting up your development Environment](/tutorial/excel/Excel-VBA-Setting-Up-Dev-Environment/)
 
