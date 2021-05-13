@@ -18,14 +18,10 @@ Let's do a quick orientation on the VBA development enviornment.
 	* **Class modules**
 		* These are way more advanced and are used primarily for object oriented programming.  We won't be touching on these in this tutorial. 
 
-Now we will be setting up the development environment and covering how to navigate to your IDE, make a much needed configurations, and creating your first module. 
+That was just a quick orientation on some of the things that make up what I'm calling our development enviornment.  Now we will be setting up the development environment and covering how to navigate to your IDE, make a much needed configurations, and creating your first module. 
 
-**Steps**
 
-1. Open an Excel workbook (easy enough).
+[Excel Tutorial Homepage](/Excel-VBA-Tutorial/)
 
-2. Navigate to the File tab
-![Navigate to file](/assets/images/1e_click_file_getting_started.png)
+[Setting up your development Environment](/tutorial/excel/tutorial/excel/Excel-VBA-Setting-Up-Dev-Environment/)
 
-3. Click Options
-![Click options](/assets/images/2e_click_options_getting_started.png)
