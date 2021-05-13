@@ -11,10 +11,12 @@ I suggest that you type out the code yourself for each lesson.  Doing so will be
 
 **Without further delay, let's jump into our first VBA program**
 
-This first program is going to be called **Hello World**.  We are going to create a very simple program that contains just one line of code.  
+This first program is going to be called **Hello World**.  We are going to create a very simple program that contains just one line of code.
+
+
 Open up a fresh Excel workbook, open up your IDE, and insert a module.  Click [here](/tutorial/excel/Excel-VBA-Setting-Up-Dev-Environment/) if you need a refresher on navigating to your IDE.  In short, **you can either navigate to your IDE through the Developer tab, or you can simply press ALT + F11.**
 
-Once you've got your IDE up and fresh module open, go ahead and type the following code.  You can run the program by pressing F5, or by pressing the green play button in your IDE editor. 
+Once you've got your IDE up and fresh module open, go ahead and type the following code.  **You can run the program by pressing F5, or by pressing the green play button in your IDE editor.** 
 ![Execute code](/assets/images/play_button.png) 
 
 ```
