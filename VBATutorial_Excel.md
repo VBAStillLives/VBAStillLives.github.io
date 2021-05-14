@@ -15,3 +15,5 @@ Welcome to the Excel VBA Tutorial page.  This basic tutorial provides exposure t
 * Conditional Logic (Coming soon!)
 * Excel Formatting Example (Coming soon!)
 * Using the Macro Recorder for Code Snippets (Coming soon!)
+* Automating your Windows Environment (Coming soon!)
+* 

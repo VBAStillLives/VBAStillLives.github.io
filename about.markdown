@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### About this Blog
+### About this Blog 
 
 This blog was created to share my knowledge of the Microsoft Applications I work most with, and to provide basic VBA tutorials and examples. Anyone working in finance, marketing, sales, operations, analytics, or any job that entails the heavy use of Excel spreadshseets and other Microsoft Office Applications will find something of value in this blog. 
 
