@@ -6,11 +6,11 @@ permalink: /about/
 
 ### About this Blog 
 
-This blog was created to share my knowledge of the Microsoft Applications I work most with, and to provide basic VBA tutorials and examples. Anyone working in finance, marketing, sales, operations, analytics, or any job that entails the heavy use of Excel spreadshseets and other Microsoft Office Applications will find something of value in this blog. 
+The blog was named **VBA Lives** because ever year I read imminent articles that VBA is going to die. Yet 10 years later, VBA is still here.  **VBA Lives is dedicated to you getting the most out of your Microsoft Applications and to help improve your job perfomance with the help of a little code.**  
 
-There was a time in my life where I couldn't read or write a single bit of code.  I'd look at an integrated development environment (IDE) or code editor and not understand a single line of code.  So this blog is very much written for the non-programmer.  You only need to have experience with Excel or Access for this to be meaningful for you. 
+There was a time in my life where I couldn't read or write a single bit of code.  I'd look at an integrated development environment (IDE) or code editor and not understand a single line of code.  **So this blog is very much written for the non-programmer.**  People in marketing, finance, sales, EAs, and small business owners will find value in this blog.  The only requirement is that you have basic familiarity with Excel.  The Access tutorial will start from scratch, so you can come into that with no experience at all. 
 
-I want you to be empowered with the full potential of the applications you use at your desk every single day.  Learning a little bit of VBA will give you some serious productivity gains; letting you focus more of your valuable time on what makes you good at your actual job.  
+The tutorials are meant to provide a basic, logically ordered, and broad overview of VBA.  You won't become an overnight expert.  The goal is to give you the necesary knowledge upon which you can continue learning and growing in your code literacy, and hopefully gain productivity in your job.  
 
 
 
