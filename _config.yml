@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: VBA Still Lives
+title: VBA Lives
 email: vbastilllives@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A helpful blog containing VBA tutorials and tips that help you automate your day-to-day tasks, harness the 
   power of technology, and avoid the red-tape that has become corporate IT.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.vbalives.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
