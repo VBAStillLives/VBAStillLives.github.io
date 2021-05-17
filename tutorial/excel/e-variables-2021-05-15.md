@@ -155,3 +155,5 @@ After download and open the workbook that goes with this tutorial lesson, go ahe
 **References and Guides**
 
 [Microsoft's summary of data types can be really helpful](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/data-type-summary).  Check it out!
+
+[Excel Tutorial Homepage](/Excel-VBA-Tutorial/)
