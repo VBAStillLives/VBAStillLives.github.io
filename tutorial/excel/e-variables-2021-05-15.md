@@ -158,6 +158,6 @@ After download and open the workbook that goes with this tutorial lesson, go ahe
 
 **Navigation**
 
-[Home - Excel Tutorial Homepage](/Excel-VBA-Tutorial/)
+[Excel Tutorial Homepage](/Excel-VBA-Tutorial/)
 
 [Next - Loops](/tutorial/excel/excel-vba-loops/)
