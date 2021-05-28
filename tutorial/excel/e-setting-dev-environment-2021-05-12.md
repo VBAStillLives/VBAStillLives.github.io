@@ -56,7 +56,9 @@ You could skip steps 2 - 7 with a simple shortcut key, ALT + F11.  Pressing ALT+
 
 You are now ready to create your first program in VBA.  Let's do it!
 
+**Navigation**
+
 [Excel Tutorial Homepage](/Excel-VBA-Tutorial/)
 
-[First VBA Program](/tutorial/excel/hello-world-excel-vba/)
+[Next - First VBA Program](/tutorial/excel/hello-world-excel-vba/)
 

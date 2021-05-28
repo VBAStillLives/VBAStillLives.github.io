@@ -35,9 +35,6 @@ End Sub
 **What will the program do?**
 The program is a **very** simple one.  When you execute the code by pressing F5 or the play button, a message box will appear with the text "Hello World!" in it.  When you press the "OK" button in the prompt, the program will end.  
 
-**Analysis of the program** 
-
-I want you to notice a few things.
 
 **The Title**
 ```
@@ -69,7 +66,12 @@ You create comments in code by using an apostrophe preceding a comment.  You can
 
 Take a moment to tinker this program. Add some comments for practice.  Change the text from "Hello World" to something else.  Get comfortable.  The point of this very brief lesson was to illustrate where and how VBA is typed, and how to execute a program.  Each lesson will build upon concepts from previous tutorials, so keep the lessons learned here in mind. 
 
+**Navigation**
+
 [Excel Tutorial Homepage](/Excel-VBA-Tutorial/)
+
+
+[Next - Variables](/tutorial/excel/excel-vba-variables/)
 
 
 
