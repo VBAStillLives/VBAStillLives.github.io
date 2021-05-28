@@ -11,7 +11,7 @@ Welcome to the Excel VBA Tutorial page.  This basic tutorial provides exposure t
 * [Setting up your Dev Environment](/tutorial/excel/Excel-VBA-Setting-Up-Dev-Environment/)
 * [First program](/tutorial/excel/hello-world-excel-vba/)
 * [Variables](/tutorial/excel/excel-vba-variables/)
-* Loops (Coming soon!)
+* [Loops](/tutorial/excel/excel-vba-loops/)
 * Conditional Logic (Coming soon!)
 * Excel Formatting Example (Coming soon!)
 * Using the Macro Recorder for Code Snippets (Coming soon!)
