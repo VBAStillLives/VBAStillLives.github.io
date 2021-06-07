@@ -12,7 +12,7 @@ Welcome to the Excel VBA Tutorial page.  This basic tutorial provides exposure t
 * [First program](/tutorial/excel/hello-world-excel-vba/)
 * [Variables](/tutorial/excel/excel-vba-variables/)
 * [Loops](/tutorial/excel/excel-vba-loops/)
-* Conditional Logic (Coming soon!)
+* [Conditional Logic](/tutorial/excel/excel-vba-conditionallogic/)
 * Excel Formatting Example (Coming soon!)
 * Using the Macro Recorder for Code Snippets (Coming soon!)
 * Automating your Windows Environment (Coming soon!)
