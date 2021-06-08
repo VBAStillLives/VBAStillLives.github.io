@@ -97,4 +97,3 @@ The next lesson will tie all the previous concepts together and format an Excel 
 **Navigation**
 
 [Excel Tutorial Homepage](/Excel-VBA-Tutorial/)
-[Next - Formatting an Excel Workbook]
