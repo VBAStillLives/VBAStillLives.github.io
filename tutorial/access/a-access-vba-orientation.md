@@ -7,6 +7,7 @@ permalink: /tutorial/access/a-access-vba-orientation/
 
 To start, [download this Access database](/assets/files/SampleDB1.accdb).  This is the very simple database application we will be using throughout this VBA tutorial in Access.  It is by no means complete or deeply advanced.  What we are trying to accomplish here is to provide a basic overview of how you can use VBA to enhance your Access database applications.  
 
+The purpose of this brief orientation is to get you set up in Access so that you can begin coding in VBA. 
 
 **Brief Description - Microsoft Access**
 
