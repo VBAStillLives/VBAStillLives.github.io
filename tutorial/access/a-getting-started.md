@@ -3,7 +3,7 @@ layout: default
 permalink: /tutorial/access/a-getting-started/
 ---
 
-Access is an under-used and under-appreciated program, in my opinion.  This tutorial is focused on using VBA in Access, some of the key objects that we will be interacting with, and how we interact with them.  Using VBA within Access opens up a world of possibilities, allowing you to build some incredibly powerful software applications that can rival expensive 3rd software solutions you'd normally pay for. 
+This tutorial is focused on using VBA in Access, some of the key objects that we will be interacting with, and how we interact with them.  Using VBA within Access opens up a world of possibilities, allowing you to build some incredibly powerful software applications that can rival expensive 3rd software solutions you'd normally pay for. 
 
 Ok, let's dive in. 
 
@@ -33,3 +33,7 @@ Tables are where data is stored.  In Access, or any database software, tables wi
 Queries are how we access and retrieve data in the tables to use in reports or other processes.  Queries are created in SQL.  Within Access, we have a visual GUI to produce simple SQL queries.  So you can make queries without knowing how to write any SQL.  This tutorial assumes that you have basic knowledge of this, but we will cover it in some lessons of the tutorial. 
 
 Let's get started!
+
+**Navigation**
+
+[Access Tutorial Home]()
