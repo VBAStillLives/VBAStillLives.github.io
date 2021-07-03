@@ -8,7 +8,7 @@ Welcome to the Access VBA Tutorial page.  This basic tutorial provides exposure 
 
 This tutorial covers how to use some very basic aspects of VBA with Access to unleash the full power of the application.  To begin, this tutorial assumes that you have some basic knowledge and exposure to Access.  The introduction of this tutorial will have everything you need to begin. 
 
-* Orientation
+* Access VBA Orientation
 * [Getting Started for you Access Tutorial](/tutorial/access/a-getting-started/)
 * Working with Data
 * Working with Tables
