@@ -12,7 +12,7 @@ Ok, let's dive in.
 
 Very little is needed for this tutorial. 
 
-* Microsoft Access - Download ths file
+* Microsoft Access - [Download this Access database](/assets/files/SampleDB1.accdb)
 * Basic knowledge of Microsoft Access - we will review some basics on this page
 	* Tables
 	* Queries
@@ -36,4 +36,4 @@ Let's get started!
 
 **Navigation**
 
-[Access Tutorial Home]()
+[Access Tutorial Home](/Access-VBA-Tutorial/)
