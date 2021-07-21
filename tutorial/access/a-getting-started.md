@@ -32,7 +32,7 @@ Tables are where data is stored.  In Access, or any database software, tables wi
 
 Queries are how we access and retrieve data in the tables to use in reports or other processes.  Queries are created in SQL.  Within Access, we have a visual GUI to produce simple SQL queries.  So you can make queries without knowing how to write any SQL.  This tutorial assumes that you have basic knowledge of this, but we will cover it in some lessons of the tutorial. 
 
-Let's get started!
+This concludes this particular part of the tutorial.  Let's get move on to the rest and get to work!
 
 **Navigation**
 
