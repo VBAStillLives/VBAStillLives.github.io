@@ -11,4 +11,4 @@ This tutorial covers how to use some very basic aspects of VBA with Access to un
 * [Access VBA Orientation](/tutorial/access/a-access-vba-orientation/)
 * [Access Orientation Continued - Deeper Dive](/tutorial/access/a-getting-started/)
 * [Access VBA - Working with Recordsets](/tutorial/access/a-recordset/) 
-* Conclusion
+* [Wrapping Things Up! - Continued Self Learning](/tutorial/access/a-access-vba-conclusion/)
