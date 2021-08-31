@@ -16,7 +16,7 @@ The tutorials are meant to provide a basic, logically ordered, and broad overvie
 
 ### About Me
 
-My name is Sevan Serafino, and I started off as management consultant that accidentally turned full-time technologist in 2011.  Need is the mother of innovation, and this perfectly describes the beginning of my journey with VBA.  I've since applied this same 
+My name is Sevan Serafino, and I started off as management consultant that accidentally turned full-time technologist in 2011.  Need is the mother of innovation, and this perfectly describes the beginning of my journey with VBA, and with code in general.   
 
 When I'm not coding VBA or doing data analysis, I'm a proud dad, ocean addict, and amateur chef. 
 
