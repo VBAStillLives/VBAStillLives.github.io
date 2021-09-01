@@ -11,7 +11,7 @@ You can usually assume where the data in any given spreadsheet is going to start
 
 Once you have the top-left and bottom-right cells, you have a map to the entire data range on any given Excel spreadsheet and you can do whatever you want.  The image below illustrates what I mean.  The top-left cell is *quadrant 1* and the bottom-right cell is *quadrant 2*: 
 
-![Excel Contiguous Data Range](assets/images/get_full_range_vba_excel.png)
+![Excel Contiguous Data Range](/assets/images/get_full_range_vba_excel.png)
 
 
 The code example below assumes you know the cell address of quadrant 1, in this example A1.  The code finds and returns the column and row numbers of quadrant 2. 
